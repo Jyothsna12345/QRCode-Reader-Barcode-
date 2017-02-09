@@ -26,6 +26,7 @@
     
     _isReading = NO;
     _capturesession = nil;
+    NSLog(@"Testing");
 }
 
 - (void)didReceiveMemoryWarning {
